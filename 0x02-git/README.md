@@ -1,1 +1,1 @@
-This file is mandatory in all ALX projects
+**Strong** This file is mandatory in all ALX projects
